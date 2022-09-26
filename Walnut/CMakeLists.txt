@@ -33,7 +33,7 @@ add_subdirectory(vendor/glm)
 add_subdirectory(vendor/imgui)
 
 #stb-image
-add_subdirectory(vendor/stb-image)
+add_subdirectory(vendor/stb_image)
 # ===============================
 
 # ========== walnut =============
